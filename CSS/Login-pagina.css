@@ -11,4 +11,10 @@ body{
 }
  
     
-
+h1{ 
+    color: white;
+    font-family: 'Montserrat'; 
+    font-size: 4em;
+    text-align: center;
+    font-weight: bold;
+}

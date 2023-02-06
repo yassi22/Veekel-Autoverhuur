@@ -10,9 +10,13 @@
   </head>
   <body>
     <main>
-        <section class="logo-verplaats"> 
+        <div class="logo-verplaats"> 
         <img src="img/logo-small.png" alt="Logo van het bedrijf" id="logo-login">  
-        </section>
+        </div>  
+        
+          <div>
+          <h1>Login</h1>
+  	      </div>         
 	 <main>
   </body>
 </html>
