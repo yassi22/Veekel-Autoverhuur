@@ -20,7 +20,8 @@ h1{
 } 
 
 form{ 
-    text-align: center;
+    text-align: center;  
+    display: inline-block 
 }  
 
 .input-veld-login{
@@ -73,4 +74,17 @@ padding-top:2em;
     cursor:pointer;
 } 
 
- 
+label,input{
+    display:block;
+  
+  }
+
+label{
+    color: white ;
+} 
+
+.container{ 
+    display:flex; 
+    justify-content: center;
+} 
+
