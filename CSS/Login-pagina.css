@@ -80,7 +80,12 @@ label,input{
   }
 
 label{
-    color: white ;
+    color: white ;  
+    cursor:default; 
+    font-family:'Montserrat', sans-serif;    
+    margin-bottom: 0.5em;  
+    font-weight:400; 
+    
 } 
 
 .container{ 
