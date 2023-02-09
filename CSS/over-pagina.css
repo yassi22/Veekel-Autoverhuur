@@ -23,6 +23,8 @@ h1{
 .auto-afbeelding{ 
 text-align: center;
 border-radius: 10px;
-height:390px;
-width: 663px;
+height: 100%;
+width: 100%;
+max-width:700px;
+max-height: 400px;
 }
