@@ -28,3 +28,12 @@ width: 100%;
 max-width:700px;
 max-height: 400px;
 }
+ 
+
+.informatie-text {
+    color: white;
+    border:none;
+    cursor:default; 
+    font-family:'Montserrat', sans-serif;   
+    
+}
