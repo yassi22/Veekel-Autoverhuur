@@ -38,7 +38,10 @@ margin-bottom: 25px;
     border:none;
     cursor:default; 
     font-family:'Montserrat', sans-serif;    
-    
-    max-width: 50%;
+    max-width: 50%; 
+    font-weight:400; 
+} 
+
+.auto-afbeelding-2{ 
     
 }
