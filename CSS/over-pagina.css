@@ -18,8 +18,17 @@ h1{
 .container{ 
     display:flex; 
     flex-direction: column;
-    align-items: center;
-}  
+    align-items: center; 
+    margin-bottom: 7em;
+}   
+
+.container-2 { 
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; 
+    gap:10px;
+}
 
 .auto-afbeelding{ 
  
@@ -42,13 +51,24 @@ margin-bottom: 25px;
     font-weight:400; 
 } 
 
+
+/*  Tijdelijke comments voor de css over ons tweede gedeelte
+
+
 .auto-afbeelding-2{ 
 border-radius: 100%;
 border: none; 
 height: 100%;
 width: 100%;
 max-width: 900px;
-max-height: 380px; 
+max-height: 380px;  
+}
+*/
+ 
 
-
+#auto-plaatje-dozen{
+height: 550px; 
+width: 550px; 
+overflow: hidden; 
+border-radius: 100%;
 }
