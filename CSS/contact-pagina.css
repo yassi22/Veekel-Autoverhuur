@@ -83,5 +83,18 @@ a:hover {
 
 .login-knop:hover { 
     color:white;
-} 
+}  
+
+.grid-container{ 
+    display: grid; 
+    gap:50px; 
+    grid-template-columns: 1fr 1fr 1fr;
+    color:white;
+    background-color: aquamarine;
+}
+
+.item1{ 
+     border: solid black 2px;
+     
+}
  
