@@ -17,7 +17,16 @@ h1{
     font-size: 2.8em;
     text-align: center;
     font-weight: 600 ;
-} 
+}  
+
+
+.register-title{ 
+    color: white;
+    font-family: 'Montserrat', sans-serif;    
+    font-size: 2.6em;
+    text-align: center;
+    font-weight: 600 ;
+}
 
 form{ 
     text-align: center;  
