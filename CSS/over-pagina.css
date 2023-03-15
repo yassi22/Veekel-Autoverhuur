@@ -116,7 +116,9 @@ a:hover {
     height: 40px;
     font-size:20px; 
     cursor:pointer;
-} 
+}  
+
+ 
 
 .login-knop:hover { 
     color:white;
