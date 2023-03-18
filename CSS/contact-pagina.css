@@ -97,4 +97,62 @@ a:hover {
      border: solid black 2px;
      
 }
+
+
+.footer-items{ 
+    display: flex;
+    background-color: #001428;
+    color:white;
+    width: 100%;
+    height: 200px;  
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;     
+    font-size:16px;
+    font-weight:400; 
+    align-items: center;
+    justify-content: space-around;
+}
+
+.vertical-line{
+    height: 100px;
+    width: 1px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
+hr{ 
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    margin: 0;
+       
+}
+
+ 
+.footer-item-one{
+    text-align: center;
+}
+
+.footer-item-two{
+    text-align: center;
+} 
+
+.footer-item-three{
+    text-align: center;
+}
+.footer-item-four{
+    text-align: center;
+}
+
+
+.logo-footer{ 
+    height:100px; 
+    width: 300px; 
+}
+
+ 
  
