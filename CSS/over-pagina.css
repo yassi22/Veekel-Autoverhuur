@@ -143,6 +143,16 @@ margin-right: 0.5em;
     justify-content: space-around;
 }
 
+.vertical-line{
+    height: 100px;
+    width: 1px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
 .footer-item-one{
     text-align: center;
 }
