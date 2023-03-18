@@ -144,8 +144,20 @@ margin-right: 0.5em;
 }
 
 .footer-item-one{
-    
+    text-align: center;
 }
+
+.footer-item-two{
+    text-align: center;
+} 
+
+.footer-item-three{
+    text-align: center;
+}
+.footer-item-four{
+    text-align: center;
+}
+
 
 .logo-footer{ 
     height:100px; 
