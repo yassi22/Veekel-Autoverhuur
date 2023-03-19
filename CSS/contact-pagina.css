@@ -79,6 +79,7 @@ a:hover {
     height: 40px;
     font-size:20px; 
     cursor:pointer;
+    margin-right: 0.5em;
 } 
 
 .login-knop:hover { 
