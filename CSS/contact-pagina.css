@@ -154,7 +154,27 @@ hr{
     width: 300px; 
 }
 
-.contact-gegevens{ 
-    
+ 
+.container-2 { 
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; 
+    gap:10px;
+}  
+
+h2{ 
+    color:#FF3C01;
+    font-family:'Montserrat', sans-serif;    
+    font-weight:600; 
 }
+
+.contact-text{ 
+    color: white;  
+    font-weight:400; 
+    font-family:'Montserrat', sans-serif;    
+
+}
+
+ 
  
