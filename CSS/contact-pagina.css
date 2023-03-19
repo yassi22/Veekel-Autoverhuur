@@ -163,17 +163,18 @@ hr{
     gap:10px;
 }  
 
-h2{ 
+.contact-info-title{ 
     color:#FF3C01;
     font-family:'Montserrat', sans-serif;    
     font-weight:600; 
+    font-size:26px;
 }
 
 .contact-text{ 
     color: white;  
-    font-weight:400; 
+    font-weight:600; 
     font-family:'Montserrat', sans-serif;    
-
+    font-size:20px;
 }
 
  
