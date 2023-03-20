@@ -138,5 +138,46 @@ h1{
         height:100px; 
         width: 300px; 
     }
+
+
+.container-cards{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-card{ 
+    text-align: center;
+    width:200px;
+    height: 200px;
+}
+
+.card{
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid #FF3C01;
+    width: 12em;
+    height: 6em;
+
+}
+
+
+.title-card{
+    text-align: center;
+    color:#001428;
+    font-size:18px; 
+    font-family: 'Montserrat', sans-serif;     
+    font-weight:400; 
+}
+
+.car-price { 
+    font-family: 'Montserrat', sans-serif;     
+    font-weight:400; 
+    color:#001428;
+    font-size:1em;   
+    text-align: center;
+}
+
     
      
