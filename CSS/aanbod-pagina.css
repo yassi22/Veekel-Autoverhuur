@@ -151,7 +151,7 @@ h1{
     text-align: center;
     display: block;
     margin: auto;
-    width:200px;
+    width:250px;
     height: 200px;
     border-radius: 10px;
 
@@ -160,9 +160,9 @@ h1{
 .card{
     background-color: white;
     border-radius: 10px;
-    border: 1px solid #FF3C01;
+    border: 2px solid #FF3C01;
     width: 20em;
-    height: 20em;
+    height: 21em;
     
 }
 
@@ -181,6 +181,8 @@ h1{
     color:#001428;
     font-size:1em;   
     text-align: center;
+    font-weight:600; 
+    font-size:20px; 
 }
 
     
