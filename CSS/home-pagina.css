@@ -93,6 +93,13 @@ input:focus {
     border-color: #FF3C01;
      
   }
+
+.input-title{
+    color:#001428;
+    font-family: 'Montserrat', sans-serif;  
+    font-weight: 600;
+    text-decoration: none; 
+}
  
 
 
