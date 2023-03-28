@@ -100,6 +100,19 @@ input:focus {
     font-weight: 600;
     text-decoration: none; 
 }
+
+.versturen{ 
+border-radius: 10px;
+background-color:#FF3C01;
+color:white;
+font-family: 'Montserrat', sans-serif;  
+font-weight: 600;
+font-size:24px;
+cursor: pointer;
+text-decoration: none; 
+border: none;
+
+}
  
 
 
