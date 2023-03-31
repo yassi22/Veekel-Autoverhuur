@@ -39,6 +39,8 @@ a:hover {
 
 }
 
+/* css navigatie gedeelte stopt hier*/
+
 
 .login-knop {
     text-decoration: none;
@@ -116,8 +118,10 @@ input:focus {
 }
 
 
- 
+  
 
+
+/* Footer gedeelte van css begint hieronder*/
 
 .footer-items {
     display: flex;
