@@ -157,9 +157,28 @@ input::placeholder{
     color:#001428;
     font-size: 14px;
 }
-  
 
 
+ .input-container{ 
+display: flex;
+justify-content: start;
+align-items: center;
+gap:20px;
+flex-direction: column;
+flex-wrap: wrap;
+ }
+
+
+ .content-container{ 
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    height: 25em;
+ }
+
+ 
 /* Footer gedeelte van css begint hieronder*/
 
 .footer-items {
