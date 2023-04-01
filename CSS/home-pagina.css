@@ -135,7 +135,8 @@ input:focus {
     border: none;
     width: 8em;
     height: 2em;
-}
+} 
+
  
 label{ 
     display: inline-block;
@@ -175,6 +176,19 @@ flex-wrap: wrap;
     align-content: center;
     justify-content: space-around;
     height: 25em;
+ } 
+
+ .auto-knop{
+    border: none;
+    color:white;
+    border-radius: 10px;
+    background: #001428;
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    height:2em; 
+    width: 6em; 
  }
 
  
@@ -212,7 +226,6 @@ hr {
     margin: 0;
 
 }
-
 
 .footer-item-one {
     text-align: center;
