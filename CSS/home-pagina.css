@@ -189,6 +189,7 @@ flex-wrap: wrap;
     font-family: 'Montserrat', sans-serif;
     height:2em; 
     width: 6em; 
+    cursor: pointer;
  } 
 
  .bus-knop { 
@@ -201,7 +202,16 @@ flex-wrap: wrap;
     font-size: 22px;
     font-family: 'Montserrat', sans-serif;
     height:2em; 
-    width: 6em; 
+    width: 6em;  
+    cursor: pointer;
+ } 
+
+ .bus-knop:hover{ 
+    color:#001428; 
+ }
+
+ .auto-knop:hover{ 
+    color:#FF3C01;
  }
 
  
