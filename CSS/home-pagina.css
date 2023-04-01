@@ -91,7 +91,6 @@ a:hover {
 .home-content {
     background-color: white;
     border-radius: 10px;
-    height: 30em;
     width: 64em;
     text-align: center;
     margin: auto;
@@ -130,7 +129,7 @@ input:focus {
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-    font-size: 22px;
+    font-size: 26px;
     cursor: pointer;
     text-decoration: none;
     border: none;
