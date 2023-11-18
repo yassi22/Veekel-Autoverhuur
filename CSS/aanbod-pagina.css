@@ -199,6 +199,16 @@ h1{
     font-family: 'Montserrat', sans-serif;  
     font-weight:600;  
     font-size:14px; 
+} 
+
+.car-icon-container{ 
+    display: flex; 
+    justify-content: space-around;
+} 
+
+.car-text-container{ 
+    display: flex; 
+    justify-content: space-around;
 }
 
 .car-price { 
@@ -210,6 +220,7 @@ h1{
     font-weight:600; 
     font-size:20px; 
 }
+ 
 
     
      
